@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="621px" height="315px" viewBox="0 0 621 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>F9C682C0-879A-475F-9C8D-EEA3497FCB98</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#8AEAF6" offset="0%"></stop>
+            <stop stop-color="#1D1048" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FD9801" offset="0%"></stop>
+            <stop stop-color="#1D1048" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="token-head-slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-473.000000, -3686.000000)">
+        <g id="graph-low-cost" transform="translate(473.000000, 3686.000000)">
+            <path d="M18,313 L378.309211,313" id="Path-2" stroke="#492DA3" stroke-dasharray="1,5"></path>
+            <path d="M98,233 L407.819901,233" id="Path-2-Copy" stroke="#492DA3" stroke-dasharray="1,5"></path>
+            <path d="M98,153 L621,153" id="Path-2-Copy-2" stroke="#492DA3" stroke-dasharray="1,5"></path>
+            <path d="M98,73 L621,73" id="Path-2-Copy-3" stroke="#492DA3" stroke-dasharray="1,5"></path>
+            <path d="M98,3 L621,3" id="Path-2-Copy-4" stroke="#492DA3" stroke-dasharray="1,5"></path>
+            <rect id="Rectangle-8" fill="url(#linearGradient-1)" x="0" y="0" width="571" height="5" rx="2.5"></rect>
+            <rect id="Rectangle-8-Copy" fill="url(#linearGradient-1)" x="0" y="70" width="476" height="5" rx="2.5"></rect>
+            <rect id="Rectangle-8-Copy-2" fill="url(#linearGradient-1)" x="0" y="150" width="381" height="5" rx="2.5"></rect>
+            <rect id="Rectangle-8-Copy-3" fill="url(#linearGradient-1)" x="0" y="230" width="286" height="5" rx="2.5"></rect>
+            <rect id="Rectangle-8-Copy-4" fill="url(#linearGradient-2)" x="0" y="310" width="30" height="5" rx="2.5"></rect>
+        </g>
+    </g>
+</svg>

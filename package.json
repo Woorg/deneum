@@ -1,5 +1,5 @@
 {
-  "name": "csssr-project-template",
+  "name": "webjeb-project-template",
   "version": "0.26.2",
   "description": "A template for a quick start.",
   "keywords": [
@@ -13,7 +13,7 @@
     "gulp",
     "webpack",
     "babel",
-    "jade",
+    "pug",
     "stylus"
   ],
   "scripts": {
@@ -81,11 +81,11 @@
     "gulp-gh-pages": "^0.5.4",
     "gulp-group-css-media-queries": "^1.1.0",
     "gulp-if": "^2.0.0",
-    "gulp-pug": "^1.1.0",
-    "gulp-pug-inheritance": "^0.2.1",
     "gulp-jsbeautifier": "^1.0.1",
     "gulp-plumber": "^1.0.1",
     "gulp-plumber-error-handler": "^1.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-pug-inheritance": "^0.2.1",
     "gulp-pug-linter": "^0.4.1",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.6.0",
@@ -99,7 +99,6 @@
     "happypack": "^2.1.1",
     "husky": "^0.11.9",
     "jade-get-data": "^1.0.0",
-    "jade-injected": "^1.0.2",
     "jquery": "^3.0.0",
     "jquery-mask-plugin": "^1.14.15",
     "magnific-popup": "^1.1.0",

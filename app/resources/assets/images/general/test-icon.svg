@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>2FC26655-EE1F-426E-A8FB-5628704B5A6F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="token-head-slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-695.000000, -6380.000000)">
+        <g id="test-icon" transform="translate(695.000000, 6379.000000)">
+            <path d="M44.3183,26.3856 C44.3183,37.0066 35.7083,45.6166 25.0873,45.6166 C14.4653,45.6166 5.8553,37.0066 5.8553,26.3856 C5.8553,15.7646 14.4653,7.1546 25.0873,7.1546 C35.7083,7.1546 44.3183,15.7646 44.3183,26.3856 Z" id="Stroke-1" stroke="#FD9801"></path>
+            <path d="M32.0107,26.3856 C32.0107,30.2086 28.9097,33.3096 25.0867,33.3096 C21.2637,33.3096 18.1627,30.2086 18.1627,26.3856 C18.1627,22.5626 21.2637,19.4616 25.0867,19.4616 C28.9097,19.4616 32.0107,22.5626 32.0107,26.3856 Z" id="Stroke-3" stroke="#57E7FD"></path>
+            <g id="Group-7" transform="translate(25.000000, 0.771300)" stroke="#57E7FD">
+                <path d="M0.0868,0.2286 L0.0868,18.6906" id="Stroke-5"></path>
+            </g>
+            <path d="M16.4042,2.5311 L18.5092,8.3141" id="Stroke-8" stroke="#FD9801"></path>
+            <path d="M8.7694,6.9393 L12.7254,11.6533" id="Stroke-10" stroke="#FD9801"></path>
+            <path d="M3.1024,13.6933 L8.4314,16.7693" id="Stroke-12" stroke="#FD9801"></path>
+            <path d="M0.0868,21.9774 L6.1478,23.0454" id="Stroke-14" stroke="#FD9801"></path>
+            <path d="M0.0868,30.7938 L6.1478,29.7258" id="Stroke-16" stroke="#FD9801"></path>
+            <path d="M3.1024,39.078 L8.4314,36.002" id="Stroke-18" stroke="#FD9801"></path>
+            <path d="M8.7694,45.8319 L21.2404,31.7699" id="Stroke-20" stroke="#57E7FD"></path>
+            <path d="M16.4042,50.2401 L18.5092,44.4571" id="Stroke-22" stroke="#FD9801"></path>
+            <g id="Group-26" transform="translate(25.000000, 44.771300)" stroke="#FD9801">
+                <path d="M0.0868,7.0001 L0.0868,0.8461" id="Stroke-24"></path>
+            </g>
+            <path d="M33.7694,50.2401 L31.6644,44.4571" id="Stroke-27" stroke="#FD9801"></path>
+            <path d="M41.4042,45.8319 L28.9332,31.7699" id="Stroke-29" stroke="#57E7FD"></path>
+            <path d="M47.0712,39.078 L41.7422,36.002" id="Stroke-31" stroke="#FD9801"></path>
+            <path d="M50.0868,30.7938 L44.0258,29.7258" id="Stroke-33" stroke="#FD9801"></path>
+            <path d="M50.0868,21.9774 L44.0258,23.0454" id="Stroke-35" stroke="#FD9801"></path>
+            <path d="M47.0712,13.6933 L41.7422,16.7693" id="Stroke-37" stroke="#FD9801"></path>
+            <path d="M41.4042,6.9393 L37.4482,11.6533" id="Stroke-39" stroke="#FD9801"></path>
+            <path d="M33.7694,2.5311 L31.6644,8.3141" id="Stroke-41" stroke="#FD9801"></path>
+        </g>
+    </g>
+</svg>

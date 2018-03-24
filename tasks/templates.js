@@ -9,7 +9,7 @@ import pugLinter from 'gulp-pug-linter';
 import prettify from 'gulp-jsbeautifier';
 
 //import inheritance from 'gulp-jade-inheritance'; remove
-import inheritance from 'gulp-pug-inheritance'; // remove
+import inheritance from 'gulp-pug-inheritance'; // add
 
 import cached from 'gulp-cached';
 import filter from 'gulp-filter';
